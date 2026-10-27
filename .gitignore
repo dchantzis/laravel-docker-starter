@@ -2,4 +2,9 @@
 application/*
 !application/.gitkeep
 *.log
+.idea
+.vscode
+# OS metadata
 .DS_Store
+._*
+__MACOSX/
