@@ -35,7 +35,7 @@ export DB_CONTAINER_PORT=${DB_CONTAINER_PORT:-3306}
 export DB_ROOT_PASSWORD=${DB_ROOT_PASSWORD:-root-local-password}
 export DB_USER=${DB_USER:-laravel}
 export DB_PASSWORD=${DB_PASSWORD:-laravel-local-password}
-export DB_DATABASE=${DB_DATABASE:-laravel_engineering_lab}
+export DB_DATABASE=${DB_DATABASE:-laravel_starter}
 export XDEBUG_MODE=${XDEBUG_MODE:-off}
 
 # Get host IP (macOS uses ipconfig, Linux uses hostname -I).

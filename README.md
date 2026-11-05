@@ -23,7 +23,7 @@ cp .env.example .env
 ./dev php -m
 ```
 
-The application is served at `http://localhost:8090` after Laravel is installed. Before installation, Nginx will return 404; this is expected.
+The application is served at `http://localhost:8091` after Laravel is installed. Before installation, Nginx will return 404; this is expected.
 
 ## Laravel application (optional, later)
 
